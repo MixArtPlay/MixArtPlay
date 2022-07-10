@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MixArtPlay
-- 👀 I’m interested in GameDev
+- 👀 I’m interested in GameDev, Programming, WebDesign and more
 - 🌱 I’m currently learning GameDev on Unreal Engine 5 and Unity
-- 💞️ I’m looking to collaborate on Programming
+- 💞️ I’m looking to collaborate on GameDev projects
 - 📫 Direct to me in Instagram @mixartplay
 
 <!---
